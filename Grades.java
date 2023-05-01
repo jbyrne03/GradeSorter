@@ -1,10 +1,8 @@
 /**
  * This class is used to sort a collection of grades in ascending order
  * and return the average grade back to the user.
- * * @author James Byrne
  *  * @version 0.1
  *  * @since 12-19-2022
- *  * @email jbyrne03@nyit.edu
  */
 
 import java.util.Scanner;
